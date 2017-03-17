@@ -12,10 +12,16 @@ var app = express();
 app.use(express.static('public'));
 
 // http://expressjs.com/en/starter/basic-routing.html
+/*
 app.get("/", function (request, response) {
   response.sendFile(__dirname + '/views/index.html');
 });
+*/
+app.get("/", function (request, response) {
+  response.sendFile(__dirname + '/views/dreams.html');
+});
 
+/*
 app.get("/dreams", function (request, response) {
   response.send(dreams);
 });
@@ -32,6 +38,7 @@ var dreams = [
   "Climb a really tall mountain",
   "Wash the dishes"
 ];
+*/
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function () {
