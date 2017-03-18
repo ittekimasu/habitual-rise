@@ -16,3 +16,24 @@ h1 {
 p {
   max-width: 600px;
 }
+
+#bagel {
+  position: absolute;
+  left: 550px;
+  top: 160px;
+  z-index: 1;
+}
+
+#logo {
+  position: absolute;
+  left: 430px;
+  top: 480px;
+  z-index: 2;
+}
+
+#moga {
+  position: absolute;
+  left: 1600px;
+  top: 40px;
+  z-index: 2;
+}
