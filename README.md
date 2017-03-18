@@ -23,4 +23,4 @@ Will any of it be relevant at the
 final tally. Or is it just chaff to be
 scattered by the four winds?
 
-Whither <i>ecstasy</i>?
+Whither _ecstasy_?
