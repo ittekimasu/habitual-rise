@@ -1,40 +1,26 @@
-This is **The Habitual Rise**
-=============================
+The Habitual Rise
+=================
 
-A workin progress by ittekimasu
--------------------------------
+I die whenever faced with the blank page.
+It comes in torrents, or not at all.
+Titles like "Manifesto" or "Executive
+Summary." When I'm holding Infinity in
+one hand, shall I shuck an oyster with
+the other?
 
-"All steak no sizzle" -Chekooooooooov
+When taking lessons from the School of
+Life. Knee deep in contemplation at
+the College of Experience. We all come
+to an inevitable conclusion:
 
-"And if you create from the heart with truth and honesty your memes will be genuine and withstand the test of ages and dankness and you will truly know living like the time after the war I drove my Jeep right into the bar at Harry's in Paris and ordered two apertifs and clams on the half shell..." -Ernest Hemmingwaaaaaaaaaaaaay
+"Am I making a difference?"
 
-"Everyone drinks Coke and shares dank memes. Even Liz Taylor. And the President." -Andy Warhoooooooooool
+Consider the typical work day.
 
+And all the gigabytes of data consumed.
 
-Welcome to the Glitch BETA
-=========================
+Will any of it be relevant at the 
+final tally. Or is it just chaff to be
+scattered by the four winds?
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
-
-Glitch is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
-
-[About Glitch](https://glitch.com/about)
-
-
-Your Project
-------------
-
-On the back-end,
-- your app starts at `server.js`
-- add frameworks and packages in `package.json`
-- safely store app secrets in `.env`
-
-On the front-end,
-- edit `client.js`, `style.css` and `index.html`
-- drag in `assets`, like images or music, to add them to your project
-
-
-Made by Fog Creek
------------------
-
-\ ゜o゜)ノ
+Whither <i>ecstasy</i>?

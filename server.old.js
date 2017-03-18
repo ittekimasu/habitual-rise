@@ -21,6 +21,10 @@ app.get("/", function (request, response) {
   response.sendFile(__dirname + '/views/dreams.html');
 });
 
+// rewrite server.js, package.json, readme
+// basic time sync between client and server
+// meme db json load
+
 /*
 app.get("/dreams", function (request, response) {
   response.send(dreams);

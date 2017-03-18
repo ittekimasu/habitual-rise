@@ -1,14 +1,10 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
-
-  "name": "my-glitch-app",
-  "version": "0.0.1",
-  "description": "What am I about?",
-  "main": "server.js",
+  "name": "habitual-rise",
+  "version": "0.0.4",
+  "description": "Meme Imperium",
+  "main": "ninja.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node ninja.js"
   },
   "dependencies": {
     "express": "^4.15.2"
@@ -17,7 +13,7 @@
     "node": "6.9.x"
   },
   "repository": {
-    "url": "https://glitch.com/#!/project/welcome-project"
+    "url": "https://glitch.com/#!/habitual-rise"
   },
   "license": "MIT",
   "keywords": [
