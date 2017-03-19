@@ -46,3 +46,10 @@ var listener = app.listen(process.env.PORT, function () {
 // open file descriptor for writing
 // when buffer is full, flush to file
 // and start new buffer, stream cycle
+
+// test cache data per user
+// each unique home page request generates a token
+// stored in memory per session client side
+// xhr post some data and cache on server in buffer
+// test hotload retention
+// save to filesystem json document
