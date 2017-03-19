@@ -17,6 +17,15 @@ fs.readFile('captions.json', function(err, data) {
   // console.log(captions.constants[2]);
 });
 
+var sene, lene;
+fs.readFile('sene.json', function(err, data) {
+  if (err) {
+    throw err;
+  }
+  sene = JSON.parse(data);
+  lene = sene.length;
+});
+
 
 // http://expressjs.com/en/starter/static-files.html
 app.use(express.static('public'));
@@ -34,6 +43,13 @@ app.get("/", function(req, res) {
 app.get("/co", function(request, response) {
   // console.log(request.route);
   response.send(captions);
+});
+
+app.get("/sere", function(req, res) {
+  var rand = Math.floor(Math.random() * lene);
+  var json = sene[rand];
+  res.writeHead(200, {"Content-Type": "application/json"});
+  res.end(JSON.stringify(json));
 });
 
 // listen for requests :)
