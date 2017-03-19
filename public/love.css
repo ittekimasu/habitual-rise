@@ -44,3 +44,56 @@ p {
   top: 406px;
   z-index: 2;
 }
+
+#card {
+  position: absolute;
+  left: 32px;
+  top: 32px;
+  z-index: 2;
+  width: 600px;
+  height: 200px;
+  background-color: rgba(255,255,255,1.0);
+}
+
+#artist {
+  position: absolute;
+  left:4px;
+  top: 4px;
+  z-index: 2;
+  width: 592px;
+  height: 42px;
+  background-color: rgba(255,255,255,1.0);
+  color: rgba(0,0,0,1.0);
+  font-weight: bold;
+  font-size: 24px;
+}
+
+#object {
+  position: absolute;
+  left:4px;
+  top: 54px;
+  z-index: 2;
+  width: 592px;
+  height: 42px;
+  background-color: rgba(255,255,255,1.0);
+}
+
+#medium {
+  position: absolute;
+  left:4px;
+  top: 104px;
+  z-index: 2;
+  width: 592px;
+  height: 42px;
+  background-color: rgba(255,255,255,1.0);
+}
+
+#desc {
+  position: absolute;
+  left:4px;
+  top: 154px;
+  z-index: 2;
+  width: 592px;
+  height: 42px;
+  background-color: rgba(255,255,255,1.0;
+}
